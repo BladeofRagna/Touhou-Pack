@@ -27,6 +27,16 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+- name: remastered\obj\P_LK100.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_LK100.mdlx/-0.dds
+- name: remastered\obj\P_LK100.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_LK100.mdlx/-1.dds
 - name: remastered/field2d/us/al0field.2dd/US_al0field_2dd1.png
   platform: pc
   method: copy
