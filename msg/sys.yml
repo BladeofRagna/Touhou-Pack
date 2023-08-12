@@ -308,3 +308,32 @@
   en: '{:color #c2c2c280}Barrier'
 - id: 0x0519
   en: '{:color #c2c2c280}{:width 72}Duplex Shield'
+- id: 0x0AB4
+  en: '{:width 65}Cancel this Moratorium'
+- id: 0x0AB3
+  en: '{:width 60}Abandon this Distraction'
+- id: 0x4E7F
+  en: '{:color #bf082080}Scarlet Form'
+- id: 0x4E8D
+  en: Scarlet Rave
+- id: 0x4EFE
+  en: Scarlet Rave
+- id: 0x4E8F
+  en: '{:width 90}Scarlet Disaster'
+- id: 0x4F01
+  en: '{:width 90}Scarlet Disaster'
+- id: 0x4E91
+  en: '{:width 93}Gungnir Throw'
+- id: 0x4F04
+  en: '{:width 93}Gungnir Throw'
+- id: 0x4E93
+  en: '{:width 93}Scarlet Meister'
+- id: 0x4EF6
+  en: '{:width 93}Scarlet Meister'
+- id: 0x4F69
+  en: Vampiric Osmosis
+- id: 0x4F6A
+  en: >-
+    Restores HP when successfully landing a hit
+    
+    with the keyblade during Limit Commands.

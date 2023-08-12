@@ -27,6 +27,76 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+- name: remastered\obj\P_EX100_KH1F.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.mdlx/-0.dds
+- name: remastered\obj\P_EX100_KH1F.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.mdlx/-1.dds
+- name: remastered\obj\P_EX100_KH1F.mdlx/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.mdlx/-2.dds
+- name: remastered\obj\P_EX100_KH1F.mdlx/-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.mdlx/-5.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-0.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-1.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-2.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-3.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-4.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-5.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-6.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-7.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-7.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-8.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-9.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-9.dds
 - name: remastered\obj\P_LK100.mdlx/-0.dds
   platform: pc
   method: copy
@@ -127,6 +197,11 @@ assets:
   method: copy
   source:
   - name: remastered/field2d/us/zz0field.2dd/US_zz0field_2dd1.png
+#- name: remastered\field2d\us\zz0command.2dd
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered\field2d\us\CommandMenu
 - name: remastered/itempic/item-226.imd/-0.dds
   platform: pc
   method: copy
