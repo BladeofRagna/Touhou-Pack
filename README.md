@@ -1,5 +1,5 @@
-# Touhou-Spritepack
-A mod that replaces various item drop sprites in KH2, as well as various junk items being replaced with Fumo's.
+# Touhou-Pack
+Changes the prize drops, junk items such Auron's Statue, and a few drive forms with things based off of Touhou Project.
 
 - Red P Tiles = HP Orbs
 - Yellow Tiles = Munny
