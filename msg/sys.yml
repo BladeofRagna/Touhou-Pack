@@ -159,7 +159,7 @@
     A Form specializing in magic attacks.
     
     {:color #F0F00080}Drive points consumed: 3{:reset}
-- id: 0x4B90
+- id: 0x4B7F
   en: >-
     {:color #0BCBFF80}Fairy Form{:reset} Level. Time spent
     
@@ -323,9 +323,9 @@
 - id: 0x4F01
   en: '{:width 90}Scarlet Disaster'
 - id: 0x4E91
-  en: '{:width 93}Gungnir Throw'
+  en: '{:width 93}Gungnir Raid'
 - id: 0x4F04
-  en: '{:width 93}Gungnir Throw'
+  en: '{:width 93}Gungnir Raid'
 - id: 0x4E93
   en: '{:width 93}Scarlet Meister'
 - id: 0x4EF6
@@ -337,3 +337,55 @@
     Restores HP when successfully landing a hit
     
     with the keyblade during Limit Commands.
+- id: 0x4E80 #Auto-Limit RC
+  en: '{:color #bf082080}Scarlet'
+- id: 0x4E8B #Auto-Limit
+  en: '{:color #bf082080}Auto Scarlet'
+- id: 0x4E82 
+  en: >-
+    Access {:color #bf082080}Scarlet Form{:reset} alone with the help
+ 
+    of a vampire from faraway. 
+
+    {:color #bf082080}{:width 77}"I'll allow you to borrow my power. Behold the beauty of the scarlet moon!"{:reset}
+- id: 0x4E8C
+  en: >-
+    Automatically sets the Reaction
+
+    Command to {:color #bf082080}Scarlet{:reset} in a pinch, if
+
+    {:color #bf082080}Scarlet Form{:reset} is usable.
+- id: 0x4E8E
+  en: >-
+    A Limit Command that unleashes an attack
+    
+    on an enemy as you pass by.
+
+    {:color #bf082080}{:width 80}"This is the speed that only a devil could withstand!"
+- id: 0x4E90
+  en: >-
+    A Limit Command that unleashes
+    
+    a powerful combo attack.
+
+    {:color #bf082080}{:width 70}"Upon this scarlet night; show them the true meaning of fear!"
+- id: 0x4E92
+  en: >-
+    A Limit Command that allows you to throw
+    
+    the Keyblade at the target.
+
+    {:color #bf082080}{:width 70}"Witness their demise! With this ability there's no escape!"
+- id: 0x4E94
+  en: >-
+    A Limit Command that can be unleashed by
+    
+    pressing {:icon dynamic-triangle} after an aerial combo.
+
+    {:color #bf082080}{:width 60}"The moon is so red tonight... Show them the greatest power of the Scarlet Devil!"
+- id: 0x4E9B
+  en: '{:color #bf082080}Scarlet LV'
+- id: 0x4E81
+  en: '{:color #bf082080}Scarlet Form'
+- id: 0x4E9F
+  en: '{:color #bf082080}Scarlet'

@@ -1,4 +1,4 @@
-title: Touhou Sprite Pack
+title: Touhou Pack
 description: Replaces many various things in KH2 with things from Touhou Project! (READ "Spellnames.txt" regarding changed spell names)
 assets:
 #PC ONLY
@@ -357,3 +357,12 @@ assets:
   method: copy
   source:
   - name: Dance Reimu.dds
+- name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
+  platform: pc
+  method: copy
+  source:
+  - name: US_zz0command_2dd0.png
+- name: scripts/Touhou Menu.lua
+  method: copy
+  source:
+  - name: Touhou Menu.lua
