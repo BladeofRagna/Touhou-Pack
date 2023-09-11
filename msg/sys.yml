@@ -133,11 +133,11 @@
   en: Fairy Shot
 - id: 0x0645
   en: >-
-    With Donald´s help, use 
-    
-    the Drive Command to change
-    
-    into {:color #0BCBFF80}Fairy Form{:reset}.
+    Access {:color #0BCBFF80}Fairy Form{:reset} with Donald's help to
+
+    receive the powers of a distant Ice Fairy!
+
+    {:color #0BCBFF80}{:width 77}"Huh? You want help from the STRONGEST?! Alright then; use my power!"{:reset}
 - id: 0x3BCD
   en: >-
     Automatically sets the Reaction

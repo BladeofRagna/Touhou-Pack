@@ -12,6 +12,11 @@ assets:
   method: copy
   source:
   - name: remastered/obj/PRIZE.mdlx/-1.dds
+- name: remastered/obj/PRIZE_PO.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/PRIZE_PO.mdlx/-0.dds
 - name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
   platform: pc
   method: copy
@@ -257,6 +262,16 @@ assets:
   method: copy
   source:
   - name: remastered/itempic/Koishi.png
+- name: remastered/itempic/item-320.imd/-0.dds #Limit Form
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Limit Form.dds
+- name: remastered/itempic/item-267.imd/-0.dds #Wisdom Form
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Wisdom Form.dds
 #Patching/PS2?
 - name: itempic/item-360.imd
   method: imd
