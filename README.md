@@ -5,7 +5,7 @@ A medium sized mod that changes various things such as Prize drops, junk items, 
 - Yellow Tiles = Munny
 - Green Stars = Drive Orbs
 - Pink Cherry Tiles = MP Orbs
-- Blue Point Tiles = None. Haven't implemented them yet
+- Blue Point Tiles = Points that are earned during Pooh Minigames
 
 Some drive forms have been altered visually. Here's a list of what's available
 
