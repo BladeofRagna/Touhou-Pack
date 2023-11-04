@@ -575,3 +575,8 @@ assets:
   method: copy
   source:
   - name: Touhou Menu.lua
+- name: remastered\menu\us\save.2ld\US_save_2ld1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\Save Pictures.png

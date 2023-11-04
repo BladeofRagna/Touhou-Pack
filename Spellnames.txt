@@ -3,6 +3,7 @@ Spell names have been replaced with various Touhou inspired ones.
 Below is a list of all the names that spells have been replaced with.
 If for some reason you do not wish to use these new spell names, an alternate sys.yml is provided that does not contain them.
 To change them, simply rename the current sys.yml to anything, then rename the NoSpells.yml to sys.yml.
+PLEASE NOTE: This file is considered out of date and hasn't been maintained in a while so somethings will be missing!
 
 Agni = Fire
 Flame Wheel = Fira
