@@ -1,0 +1,588 @@
+title: Touhou Pack
+description: Replaces many various things in KH2 with things from Touhou Project! (READ "Spellnames.txt" regarding changed spell names)
+assets:
+#PC ONLY
+- name: remastered/obj/PRIZE.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/PRIZE.mdlx/-0.dds
+- name: remastered/obj/PRIZE.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/PRIZE.mdlx/-1.dds
+- name: remastered/obj/PRIZE_PO.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/PRIZE_PO.mdlx/-0.dds
+- name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+- name: remastered\obj\P_EX100_KH1F.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.mdlx/-0.dds
+- name: remastered\obj\P_EX100_KH1F.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.mdlx/-1.dds
+- name: remastered\obj\P_EX100_KH1F.mdlx/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.mdlx/-2.dds
+- name: remastered\obj\P_EX100_KH1F.mdlx/-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.mdlx/-5.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-0.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-1.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-2.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-3.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-4.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-5.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-6.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-7.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-7.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-8.dds
+- name: remastered\obj\P_EX100_KH1F.a.us/-9.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us/-9.dds
+- name: remastered\obj\P_LK100.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_LK100.mdlx/-0.dds
+- name: remastered\obj\P_LK100.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_LK100.mdlx/-1.dds
+- name: remastered/field2d/us/al0field.2dd/US_al0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/al0field.2dd/US_al0field_2dd1.png
+- name: remastered/field2d/us/bb0field.2dd/US_bb0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/bb0field.2dd/US_bb0field_2dd1.png
+- name: remastered/field2d/us/ca0field.2dd/US_ca0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/ca0field.2dd/US_ca0field_2dd1.png
+- name: remastered/field2d/us/dc0field.2dd/US_dc0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/dc0field.2dd/US_dc0field_2dd1.png
+- name: remastered/field2d/us/di0field.2dd/US_di0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/di0field.2dd/US_di0field_2dd1.png
+- name: remastered/field2d/us/eh0field.2dd/US_eh0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/eh0field.2dd/US_eh0field_2dd1.png
+- name: remastered/field2d/us/es0field.2dd/US_es0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/es0field.2dd/US_es0field_2dd1.png
+- name: remastered/field2d/us/hb0field.2dd/US_hb0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/hb0field.2dd/US_hb0field_2dd1.png
+- name: remastered/field2d/us/he0field.2dd/US_he0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/he0field.2dd/US_he0field_2dd1.png
+- name: remastered/field2d/us/lk0field.2dd/US_lk0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/lk0field.2dd/US_lk0field_2dd1.png
+- name: remastered/field2d/us/mu0field.2dd/US_mu0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/mu0field.2dd/US_mu0field_2dd1.png
+- name: remastered/field2d/us/nm0field.2dd/US_nm0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/nm0field.2dd/US_nm0field_2dd1.png
+- name: remastered/field2d/us/po0field.2dd/US_po0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/po0field.2dd/US_po0field_2dd1.png
+- name: remastered/field2d/us/tr0field.2dd/US_tr0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/tr0field.2dd/US_tr0field_2dd1.png
+- name: remastered/field2d/us/tt0field.2dd/US_tt0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/tt0field.2dd/US_tt0field_2dd1.png
+- name: remastered/field2d/us/wi0field.2dd/US_wi0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/wi0field.2dd/US_wi0field_2dd1.png
+- name: remastered/field2d/us/wm0field.2dd/US_wm0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/wm0field.2dd/US_wm0field_2dd1.png
+- name: remastered/field2d/us/zz0field.2dd/US_zz0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/zz0field.2dd/US_zz0field_2dd1.png
+#- name: remastered\field2d\us\zz0command.2dd
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered\field2d\us\CommandMenu
+- name: remastered/itempic/item-009.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-009.imd/-0.dds
+- name: remastered/itempic/item-010.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-010.imd/-0.dds
+- name: remastered/itempic/item-320.imd/-0.dds #Limit Form
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Limit Form.dds
+- name: remastered/itempic/item-267.imd/-0.dds #Wisdom Form
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Wisdom Form.dds
+- name: remastered\menu\jm_puzzle\puzzle010.bin\-0.dds #Duality (Sisters)
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\Puzzles\Duality.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\jm_puzzle\puzzle020.bin\-0.dds #Awakening (Fairy)
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\Puzzles\Awakening.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\jm_puzzle\puzzle030.bin\-0.dds #Frontier (Teamwork)
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\Puzzles\Frontier.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\jm_puzzle\puzzle040.bin\-0.dds #Heart (Youkai)
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\Puzzles\Heart.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\jm_puzzle\puzzle050.bin\-0.dds #Daylight (Abilities)
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\Puzzles\Daylight.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\menu\jm_puzzle\puzzle060.bin\-0.dds #Sunset (Lunatic)
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\Puzzles\Sunset.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+#Patching/PS2?
+- name: itempic/item-360.imd
+  method: imd
+  source:
+  - name: itempic/Remilia.imd
+- name: itempic/item-226.imd
+  method: copy
+  source:
+  - name: itempic/Reimu2.imd
+- name: itempic/item-227.imd
+  method: copy
+  source:
+  - name: itempic/Alice2.imd
+- name: itempic/item-231.imd
+  method: copy
+  source:
+  - name: itempic/Sanae2.imd
+- name: itempic/item-234.imd
+  method: copy
+  source:
+  - name: itempic/Cirno2.imd
+- name: itempic/item-235.imd
+  method: copy
+  source:
+  - name: itempic/Utsuho2.imd
+- name: itempic/item-236.imd
+  method: copy
+  source:
+  - name: itempic/Marisa2.imd
+- name: itempic/item-237.imd
+  method: copy
+  source:
+  - name: itempic/Yuyuko2.imd
+- name: itempic/item-009.imd
+  method: imd
+  source:
+  - name: itempic/Drive.imd
+- name: itempic/item-010.imd
+  method: imd
+  source:
+  - name: itempic/HighDrive.imd
+- name: itempic/item-229.imd
+  method: imd
+  source:
+  - name: itempic/KoishiSD.imd
+- name: field2d\us\al0field.2dd
+  multi:
+  - name: field2d\us\bb0field.2dd
+  - name: field2d\us\ca0field.2dd
+  - name: field2d\us\dc0field.2dd
+  - name: field2d\us\di0field.2dd
+  - name: field2d\us\eh0field.2dd
+  - name: field2d\us\es0field.2dd
+  - name: field2d\us\hb0field.2dd
+  - name: field2d\us\he0field.2dd
+  - name: field2d\us\lk0field.2dd
+  - name: field2d\us\mu0field.2dd
+  - name: field2d\us\nm0field.2dd
+  - name: field2d\us\po0field.2dd
+  - name: field2d\us\tr0field.2dd
+  - name: field2d\us\tt0field.2dd
+  - name: field2d\us\wi0field.2dd
+  - name: field2d\us\wm0field.2dd
+  - name: field2d\us\zz0field.2dd
+  method: copy
+  source:
+  - name: field2d\al0field.2dd
+#Texts
+- name: msg/us/sys.bar
+  multi:
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: en
+- name: msg/us/sys.bar
+  multi:
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/Puzzles.yml
+      language: en
+- name: msg/us/jm.bar
+  multi:
+  - name: msg/fr/jm.bar
+  - name: msg/gr/jm.bar
+  - name: msg/it/jm.bar
+  - name: msg/sp/jm.bar
+  method: binarc
+  source:
+  - name: jm
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jm.yml
+      language: en
+- name: 03system.bin
+  method: binarc
+  source:
+  - name: item #Custom Fumos
+    type: list
+    method: listpatch
+    source:
+    - name: 03system.bin/ItemList.yml
+      type: item
+- name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png
+  multi:
+  - name: remastered/msg/us/fontimage.bar/US_fontimage_bar2.png
+  - name: remastered/msg/fr/fontimage.bar/FR_fontimage_bar2.png
+  - name: remastered/msg/gr/fontimage.bar/GR_fontimage_bar2.png
+  - name: remastered/msg/it/fontimage.bar/IT_fontimage_bar2.png
+  - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar2.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/fontimage_bar2.png
+- name: remastered/menu/fr/title.2ld/FR_title_2ld1.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/GR_title_2ld1.png
+  - name: remastered/menu/it/title.2ld/IT_title_2ld1.png
+  - name: remastered/menu/sp/title.2ld/SP_title_2ld1.png
+  - name: remastered/menu/uk/title.2ld/UK_title_2ld1.png
+  - name: remastered/menu/us/title.2ld/US_title_2ld1.png
+  method: copy
+  source:
+  - name: title_2ld1.png
+- name: remastered/menu/fr/pause.2ld/FR_pause_2ld1
+  multi:
+  - name: remastered/menu/gr/pause.2ld/GR_pause_2ld1.dds
+  - name: remastered/menu/it/pause.2ld/IT_pause_2ld1.dds
+  - name: remastered/menu/sp/pause.2ld/SP_pause_2ld1.dds
+  - name: remastered/menu/uk/pause.2ld/UK_pause_2ld1.dds
+  - name: remastered/menu/us/pause.2ld/US_pause_2ld1.dds
+  method: copy
+  source:
+  - name: Dance Reimu.dds
+- name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
+  platform: pc
+  method: copy
+  source:
+  - name: US_zz0command_2dd0.png
+- name: scripts/Touhou Menu.lua
+  method: copy
+  source:
+  - name: Touhou Menu.lua
+#Fumos
+
+#Fumo 1
+- name: remastered/itempic/item-226.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/Fumo's/Reimu.dds
+#Fumo 2
+- name: remastered/itempic/item-227.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/Fumo's/Alice.dds
+#Fumo 3
+- name: remastered/itempic/item-231.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/Fumo's/Remilia.dds
+#Fumo 4
+- name: remastered/itempic/item-234.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/Fumo's/Sanae.dds
+#Fumo 5
+- name: remastered/itempic/item-235.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/Fumo's/Cirno.dds
+#Fumo 6
+- name: remastered/itempic/item-236.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/Fumo's/Utsuho.dds
+#Fumo 7
+- name: remastered/itempic/item-237.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/Fumo's/Marisa.dds
+#Fumo 8
+- name: remastered/itempic/item-360.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/Fumo's/Yuyuko.dds
+#Fumo 9
+- name: remastered/itempic/item-229.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/Fumo's/Koishi.dds

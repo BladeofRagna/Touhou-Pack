@@ -1,0 +1,84 @@
+- id: 0x3B0B
+  en: '{:color #FF000080}Reimu Fumo'
+- id: 0x3B0C
+  en: >-
+    A fumo of the {:color #FF000080}Hakurei Shrine Maiden{:reset}.
+    
+    Her expression seems rather displeased with
+    
+    all these incidents going on.
+    
+- id: 0x3B0D
+  en: '{:color #1957bd80}Alice Fumo'
+- id: 0x3B0E
+  en: >-
+    {:width 95}A plush doll of the {:color #1957bd80}Seven-Colored Puppeteer{:reset}.
+    
+    This doll appears to be full of magic within it.
+    
+    Alice is a doll maker isn't she? Did she make this?
+    
+- id: 0x4C55
+  en: '{:color #80051580}Remilia Fumo'
+- id: 0x4C56
+  en: >-
+    {:width 90}A plush doll of the {:color #80051580}Scarlet Mistress Remilia{:reset}!
+    
+    Unlike the real Remilia, this isn't hurt by the sun.
+    
+    Beware of fangs however!
+    
+- id: 0x3B15
+  en: '{:color #12b80980}Sanae Fumo'
+- id: 0x3B16
+  en: >-
+    A plush doll of the living god {:color #12b80980}Sanae Kochiya{:reset}!
+    
+    Just having this fills you with spirit and joy!
+    
+- id: 0x3B1B
+  en: '{:color #00FFFF80}Cirno Fumo'
+- id: 0x3B1C
+  en: >-
+    {:width 95}{:color #00FFFF80}The strongest fumo in all of Gensokyo!{:reset}
+    
+    Keep this away from flower ladies!
+    
+- id: 0x3B1D
+  en: '{:color #f59d9d80}Utsuho Fumo'
+- id: 0x3B1E
+  en: >-
+    A plush doll of a {:color #f59d9d80}nuclear bird-brain{:reset}.
+    
+    For some reason this thing feels rather warm to
+    
+    the touch. It's rather anxiety inducing...
+    
+- id: 0x3B1F
+  en: '{:color #d4d40680}Marisa Fumo'
+- id: 0x3B20
+  en: >-
+    A seemingly normal fumo of {:color #d4d40680}Marisa{:reset}.
+    
+    Mini Hakkero is not included.
+    
+- id: 0x3B21
+  en: '{:color #DF40DF80}Yuyuko Fumo'
+- id: 0x3B22
+  en: >-
+    The fumo of {:color #DF40DF80}Yuyuko Saigyouji{:reset}.
+    
+    Despite Yuyuko being a ghost, this fumo
+    
+    is not. Just keep food away from it!
+    
+- id: 0x3B11
+  en: '{:color #a3ff9e80}Koishi Fumo'
+- id: 0x3B12
+  en: >-
+    A plush doll of your {:color #a3ff9e80}invisible friend{:reset}!
+    
+    Though you might not remember it, this fumo 
+    
+    has always been with you.
+    

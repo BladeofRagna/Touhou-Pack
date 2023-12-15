@@ -1,0 +1,84 @@
+- id: "Fumo 1"
+  name: '{:color #FF000080}Reimu Fumo'
+  description: |
+    A fumo of the {:color #FF000080}Hakurei Shrine Maiden{:reset}.
+    
+    Her expression seems rather displeased with
+    
+    all these incidents going on.
+- id: "Fumo 2"
+  name: '{:color #1957bd80}Alice Fumo'
+  description: |
+    {:width 95}A plush doll of the {:color #1957bd80}Seven-Colored Puppeteer{:reset}.
+    
+    This doll appears to be full of magic within it.
+    
+    Alice is a doll maker isn't she? Did she make this?
+- id: "Fumo 3"
+  name: '{:color #80051580}Remilia Fumo'
+  description: |
+    {:width 90}A plush doll of the {:color #80051580}Scarlet Mistress Remilia{:reset}!
+    
+    Unlike the real Remilia, this isn't hurt by the sun.
+    
+    Beware of fangs however!
+- id: "Fumo 4"
+  name: '{:color #12b80980}Sanae Fumo'
+  description: |
+    A plush doll of the living god {:color #12b80980}Sanae Kochiya{:reset}!
+    
+    Just having this fills you with spirit and joy!
+- id: "Fumo 5"
+  name: '{:color #00FFFF80}Cirno Fumo'
+  description: |
+    {:width 95}{:color #00FFFF80}The strongest fumo in all of Gensokyo!{:reset}
+    
+    Keep this away from flower ladies!
+- id: "Fumo 6"
+  name: '{:color #f59d9d80}Utsuho Fumo'
+  description: |
+    A plush doll of a {:color #f59d9d80}nuclear bird-brain{:reset}.
+    
+    For some reason this thing feels rather warm to
+    
+    the touch. It's rather anxiety inducing...
+- id: "Fumo 7"
+  name: '{:color #d4d40680}Marisa Fumo'
+  description: |
+    A seemingly normal fumo of {:color #d4d40680}Marisa{:reset}.
+    
+    Mini Hakkero is not included.
+- id: "Fumo 8"
+  name: '{:color #DF40DF80}Yuyuko Fumo'
+  description: |
+    The fumo of {:color #DF40DF80}Yuyuko Saigyouji{:reset}.
+    
+    Despite Yuyuko being a ghost, this fumo
+    
+    is not. Just keep food away from it!
+- id: "Fumo 9"
+  name: '{:color #a3ff9e80}Koishi Fumo'
+  description: |
+    A plush doll of your {:color #a3ff9e80}invisible friend{:reset}!
+    
+    Though you might not remember it, this fumo 
+    
+    has always been with you.
+- id: "Fumo 10"
+  name: '{:color #AAAAAA80}Reisen Fumo'
+  description: |
+    The plush dool of the moon rabbit {:color #AAAAAA80}Reisen{:reset}!
+
+    Please god let this work!
+- id: "Fumo 11"
+  name: '{:color #AAAAAA80}Murasa Fumo'
+  description: |
+    The fumo of the great {:color #AAAAAA80}Captain Murasa{:reset}!
+
+    For the safety of everyone, this fumo's anchor is smaller.
+- id: "Fumo 12"
+  name: '{:color #AAAAAA80}Satori Fumo'
+  description: |
+    A plush doll of {:color #AAAAAA80}Satori Komeiji{:reset}.
+
+    Unlike the real Satori; this one can't read your mind.
