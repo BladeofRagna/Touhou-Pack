@@ -537,55 +537,55 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Aya.dds
+  - name: remastered/Fumo's/Sakuya.dds
 #Fumo 2
 - name: remastered/itempic/item-227.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Utsuho.dds
+  - name: remastered/Fumo's/Koishi.dds
 #Fumo 3
 - name: remastered/itempic/item-360.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Satori.dds
+  - name: remastered/Fumo's/Reimu.dds
 #Fumo 4
 - name: remastered/itempic/item-231.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Reisen.dds
+  - name: remastered/Fumo's/Satori.dds
 #Fumo 5
 - name: remastered/itempic/item-234.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Marisa.dds
+  - name: remastered/Fumo's/Remilia.dds
 #Fumo 6
 - name: remastered/itempic/item-235.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Sakuya.dds
+  - name: remastered/Fumo's/Murasa.dds
 #Fumo 7
 - name: remastered/itempic/item-236.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Cirno.dds
+  - name: remastered/Fumo's/Seija.dds
 #Fumo 8
 - name: remastered/itempic/item-237.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Alice.dds
+  - name: remastered/Fumo's/Aya.dds
 #Fumo 9
 - name: remastered/itempic/item-229.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Murasa.dds
+  - name: remastered/Fumo's/Reisen.dds
 - name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
   platform: pc
   method: copy
@@ -600,3 +600,8 @@ assets:
   method: copy
   source:
   - name: remastered\Save Pictures.png
+- name: remastered\menu\us\title.2ld\US_title_2ld8.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\US_title_2ld8.png
