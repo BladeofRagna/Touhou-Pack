@@ -537,31 +537,31 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Sakuya.dds
+  - name: remastered/Fumo's/Seija.dds
 #Fumo 2
 - name: remastered/itempic/item-227.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Koishi.dds
+  - name: remastered/Fumo's/Satori.dds
 #Fumo 3
 - name: remastered/itempic/item-360.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Reimu.dds
+  - name: remastered/Fumo's/Sakuya.dds
 #Fumo 4
 - name: remastered/itempic/item-231.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Satori.dds
+  - name: remastered/Fumo's/Reisen.dds
 #Fumo 5
 - name: remastered/itempic/item-234.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Remilia.dds
+  - name: remastered/Fumo's/Aya.dds
 #Fumo 6
 - name: remastered/itempic/item-235.imd/-0.dds
   platform: pc
@@ -573,19 +573,19 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Seija.dds
+  - name: remastered/Fumo's/Sanae.dds
 #Fumo 8
 - name: remastered/itempic/item-237.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Aya.dds
+  - name: remastered/Fumo's/Remilia.dds
 #Fumo 9
 - name: remastered/itempic/item-229.imd/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/Fumo's/Reisen.dds
+  - name: remastered/Fumo's/Alice.dds
 - name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
   platform: pc
   method: copy
@@ -605,3 +605,18 @@ assets:
   method: copy
   source:
   - name: remastered\US_title_2ld8.png
+- name: remastered\obj\P_EX100_TRIF.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_TRIF.mdlx/-0.dds
+- name: remastered\obj\P_EX100_TRIF.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_TRIF.mdlx/-1.dds
+- name: remastered\obj\P_EX100_TRIF.a.us/-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us/-5.dds
