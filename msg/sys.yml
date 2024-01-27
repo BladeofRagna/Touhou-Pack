@@ -314,3 +314,43 @@
   en: '{:color #bf082080}Scarlet Form'
 - id: 0x4E9F
   en: '{:color #bf082080}Scarlet'
+- id: 0x01E7
+  en: '{:color #569c5480}Faith Form'
+- id: 0x0646
+  en: '{:color #569c5480}Faith Form'
+- id: 0x0460
+  en: 'Change Sub-Weapon used in {:color #569c5480}Faith Form.'
+- id: 0x0647
+  en: >-
+    With 2 characters help, gain access to enhanced 
+    
+    magic and aerial combat abilities!
+
+    {:color #569c5480}{:width 77}"You need help? Don't worry! The miraculous wind priestess will lend you her aid!"{:reset}
+- id: 0x3BCE
+  en: '{:color #569c5480}Auto Faith'
+- id: 0x045F
+  en: '{:color #569c5480}Faith'
+- id: 0x432C
+  en: '{:color #569c5480}Faith'
+- id: 0x3BCF
+  en: >-
+    Automatically sets the Reaction
+    
+    Command to {:color #569c5480}Faith{:reset} in a pinch, if
+    
+    {:color #569c5480}Faith Form{:reset} is usable.
+- id: 0x4580
+  en: >-
+    {:color #569c5480}Faith Form{:reset} Level. Time spent
+    
+    transformed becomes longer, and
+    
+    Abilities become stronger by leveling up.
+- id: 0x4B91
+  en: >-
+    {:color #569c5480}Faith Form{:reset} Status. A Form that 
+    
+    handles physical and magic abilities in the air!
+    
+    {:color #F0F00080}Drive points consumed: 4{:reset}
