@@ -110,3 +110,99 @@
     si gniht siht neve ;tuo kool eht no eB
 
     !dnuora sgniht gnippilf fo elbapac
+- id: "Fumo 16"
+  name: '{:color #9f32cf80}Patchouli Fumo'
+  description: |
+    A plush doll of {:color #9f32cf80}Patchouli Knowledge{:reset}!
+
+    {:width 90}Despite its name, this fumo lacks magical abilities.
+
+    {:width 90}Try not to shake it too much too; it tends to cough.
+- id: "Fumo 17"
+  name: '{:color #bababa80}Youmu Fumo'
+  description: |
+    A half-plush doll of {:color #bababa80}Youmu Konpaku{:reset}!
+
+    {:width 80}What makes this a half-plush is its detachable swords!
+
+    {:width 80}They unfortunately cannot cut through anything though...
+- id: "Fumo 18"
+  name: '{:color #ffffff80}Momiji Fumo'
+  description: |
+    A fumo of {:color #ffffff80}Momiji Inubashiri{:reset}!
+
+    Every now and again this fumo can wag its tail
+    
+    when you're performing well in battle!
+- id: "Fumo 19"
+  name: '{:color #c7020280}Rumia Fumo'
+  description: |
+    A fairly hungry, plush doll of {:color #c7020280}Rumia{:reset}!
+
+    It'd be wise to keep a close eye on this one. You
+
+    might find this fumo trying to bite your arm!
+- id: "Fumo 20"
+  name: '{:color #21212180}Renko Fumo'
+  description: |
+    An ordinary fumo of {:color #21212180}Renko Usami{:reset}!
+
+    {:width 80}There doesn't appear to be anything special with this one.
+
+    {:width 95}It seems like this one is looking for {:color #c4bc4f80}Maribel{:reset}...
+- id: "Fumo 21"
+  name: '{:color #c4bc4f80}Maribel Fumo'
+  description: |
+    A seemingly normal fumo of {:color #c4bc4f80}Maribel Hearn{:reset}!
+
+    {:width 80}While holding this, you feel as if someone's watching you.
+
+    {:width 95}It seems like this one is looking for {:color #21212180}Renko{:reset}...
+- id: "Fumo 22"
+  name: '{:color #c4bc4f80}Yukari Fumo'
+  description: |
+    A hard to contain plush doll {:color #c4bc4f80}Yukari Yakumo{:reset}!
+
+    {:width 80}One minute you're holding this, the next someone nabs it.
+
+    Who would want to try and take this from you?
+- id: "Fumo 23"
+  name: '{:color #dbce1a80}Ran Fumo'
+  description: |
+    The super fluffy plush doll of {:color #dbce1a80}Ran Yakumo{:reset}!
+
+    {:width 95}This fumo comes with nine tails and are really soft!
+
+    Too bad they're not as big as the real deal...
+- id: "Fumo 24"
+  name: '{:color #593f2280}Chen Fumo'
+  description: |
+    An adorable fumo of {:color #593f2280}Chen{:reset}!
+
+    This fumo could go just about anywhere and still
+
+    look cute! Be careful if it suddenly spins rapidly!
+- id: "Fumo 25"
+  name: '{:color #07821580}Nitori Fumo'
+  description: |
+    A kappa-made fumo of {:color #07821580}Nitori Kawashiro{:reset}!
+
+    Even if this is still a plush doll, between you
+
+    and it you'll remain sworn friends!
+- id: "Fumo 26"
+  name: '{:color #80051580}Flandre Fumo'
+  description: |
+    {:width 80}A rather destructive fumo of {:color #80051580}Flandre Scarlet{:reset}!
+
+    Unlike her sister, {:color #80051580}Flandre{:reset} doesn't consume blood.
+
+    {:width 75}She is quite bored though and wants to see something explode.
+- id: "Fumo 27"
+  name: '{:color #d67f2980}Suika Fumo'
+  description: |
+    A plush doll of an oridnarily {:color #d67f2980}drunk oni{:reset}!
+
+    Since this is a plush doll, it'd be best to keep
+
+    any and all liquids away from this.
