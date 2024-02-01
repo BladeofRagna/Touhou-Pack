@@ -620,3 +620,28 @@ assets:
   method: copy
   source:
   - name: remastered\obj\P_EX100_TRIF.a.us/-5.dds
+- name: remastered\obj\P_EX100_TRIF.a.us/-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us/-4.dds
+- name: remastered\obj\P_EX100_TRIF.a.us/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us/-3.dds
+- name: remastered\obj\P_EX100_TRIF.a.us/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us/-2.dds
+- name: remastered\obj\P_EX100_TRIF.a.us/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us/-1.dds
+- name: remastered\obj\P_EX100_TRIF.a.us/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us/-0.dds
