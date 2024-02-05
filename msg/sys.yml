@@ -354,3 +354,7 @@
     handles physical and magic abilities in the air!
     
     {:color #F0F00080}Drive points consumed: 4{:reset}
+- id: 0x3993
+  en: 'Fantasy Seal'
+- id: 0x4E76
+  en: 'Fantasy Burst'
