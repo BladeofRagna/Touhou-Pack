@@ -646,17 +646,32 @@ assets:
   source:
   - name: remastered\obj\P_EX100_TRIF.a.us/-0.dds
 - name: remastered\obj\P_EX100.a.us\-3.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-3.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-3.dds
   platform: pc
   method: copy
   source:
   - name: remastered\obj\P_EX100.a.us\-3.dds
 - name: remastered\obj\P_EX100.a.us\-4.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-4.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-4.dds
   platform: pc
   method: copy
   source:
   - name: remastered\obj\P_EX100.a.us\-4.dds
 - name: remastered\obj\P_EX100.a.us\-5.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-5.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-5.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-5.dds
+  - name: remastered\obj\P_EX100_AL_CARPET.a.us\-5.dds
   platform: pc
   method: copy
   source:
-  - name: remastered\obj\P_EX100.a.us\-5.dds
+  - name: remastered\obj\P_EX100.a.us\-3.dds
