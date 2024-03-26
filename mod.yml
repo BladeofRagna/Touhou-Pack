@@ -695,3 +695,8 @@ assets:
   method: copy
   source:
   - name: remastered\obj\P_EX100_BTLF.a.us/-4.dds
+- name: remastered/itempic/item-268.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Master Form.dds
