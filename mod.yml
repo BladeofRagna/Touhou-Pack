@@ -675,3 +675,23 @@ assets:
   method: copy
   source:
   - name: remastered\obj\P_EX100.a.us\-3.dds
+- name: remastered\obj\P_EX100_BTLF.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_BTLF.mdlx/-0.dds
+- name: remastered\obj\P_EX100_BTLF.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_BTLF.mdlx/-1.dds
+- name: remastered\obj\P_EX100_BTLF.mdlx/-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_BTLF.mdlx/-5.dds
+- name: remastered\obj\P_EX100_BTLF.a.us/-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_BTLF.a.us/-4.dds
