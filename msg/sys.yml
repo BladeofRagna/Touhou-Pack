@@ -358,3 +358,16 @@
   en: 'Fantasy Seal'
 - id: 0x4E76
   en: 'Fantasy Burst'
+- id: 0x01E5
+  en: '{:color #67756a80}Phantom Form'
+- id: 0x045D
+  en: '{:color #67756a80}Phantom'
+- id: 0x0642
+  en: '{:color #67756a80}Phantom Form'
+- id: 0x0643
+  en: >-
+    With Goofy's help, use the Drive
+
+    Command to change into {:color #67756a80}Phantom Form{:reset}!
+
+    {:color #67756a80}{:width 65}"You need me? Ok! With our powers together we'll cut through anything!"
