@@ -206,3 +206,75 @@
     Since this is a plush doll, it'd be best to keep
 
     any and all liquids away from this.
+- id: "Fumo 28"
+  name: '{:color #c7569880}Tewi Fumo'
+  description: |
+    A rather lucky fumo of {:color #c7569880}Tewi Inaba{:reset}!
+
+    {:width 80}What's so lucky about this thing you ask? Nothing!
+
+    {:width 80}You simply found it before it found you!
+- id: "Fumo 29"
+  name: '{:color #1b00a380}Eirin Fumo'
+  description: |
+    It's the plush doll of {:color #1b00a380}Eirin Yagokoro{:reset}!
+
+    Eirin is quite a master of medicines, however, this fumo
+
+    lacks any Potion's or such to help you...
+- id: "Fumo 30"
+  name: '{:color #ed2bb080}Kaguya Fumo'
+  description: |
+    {:width 80}A plush doll of a {:color #ed2bb080}beautiful lunar princess{:reset}!
+
+    This is just a collectable, it won't make you do
+
+    any impossible tasks, thankfully.
+- id: "Fumo 31"
+  name: '{:color #ded55780}Suwako Fumo'
+  description: |
+    A plush doll of {:color #ded55780}Suwako Moriya{:reset}!
+
+    Be careful not to hurt any frogs, or this thing
+
+    might get angry at you!
+- id: "Fumo 32"
+  name: '{:color #db6eb780}Kasen Fumo'
+  description: |
+    {:width 80}A plush doll of a {:color #db6eb780}One-Armed Hermit{:reset}!
+
+    {:width 75}This has technically has both arms, so it's not "One-Armed".
+
+    {:width 75}What exactly makes {:color #db6eb780}Kasen{:reset} a hermit anyways?
+- id: "Fumo 33"
+  name: '{:color #2e010180}Tiny Remilia Fumo'
+  description: |
+    A plush doll varient of {:color #2e010180}Remilia Scarlet{:reset}!
+
+    {:width 70}This one comes from a whole different universe! She
+
+    {:width 70}seems much smaller than usual, but just as powerful!
+- id: "Fumo 34"
+  name: '{:color #d578fa80}Hunter Flandre Fumo'
+  description: |
+    A plush doll varient of {:color #d578fa80}Flandre Scarlet{:reset}!
+
+    {:width 70}This one comes from a whole different universe! Unlike
+
+    {:width 70}the real {:color #d578fa80}Flandre{:reset}, this sword is just a prop!
+- id: "Fumo 35"
+  name: '{:color #a307a680}Retro Reimu Fumo'
+  description: |
+    An older looking fumo of {:color #a307a680}Reimu Hakurei{:reset}!
+
+    This appears to resemble {:color #a307a680}Reimu{:reset} from long ago.
+
+    It's quite a rare find!
+- id: "Fumo 36"
+  name: '{:color #ffff0080}Retro Marisa Fumo'
+  description: |
+    An older looking fumo of {:color #ffff0080}Marisa Kirisame{:reset}!
+
+    This appears to resemble {:color #ffff0080}Marisa{:reset} from long ago.
+
+    It's quite a rare find!
