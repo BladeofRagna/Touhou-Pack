@@ -219,9 +219,9 @@
   description: |
     It's the plush doll of {:color #1b00a380}Eirin Yagokoro{:reset}!
 
-    Eirin is quite a master of medicines, however, this fumo
+    {:width 90}Eirin is quite a master of medicines, however, this fumo
 
-    lacks any Potion's or such to help you...
+    {:width 90}lacks any Potion's or such to help you...
 - id: "Fumo 30"
   name: '{:color #ed2bb080}Kaguya Fumo'
   description: |
@@ -243,9 +243,9 @@
   description: |
     {:width 80}A plush doll of a {:color #db6eb780}One-Armed Hermit{:reset}!
 
-    {:width 75}This has technically has both arms, so it's not "One-Armed".
+    {:width 75}This technically has both arms, so it's not "One-Armed".
 
-    {:width 75}What exactly makes {:color #db6eb780}Kasen{:reset} a hermit anyways?
+    {:width 75}What exactly makes {:color #db6eb780}Kasen{:reset} {:width 75}a hermit anyways?
 - id: "Fumo 33"
   name: '{:color #2e010180}Tiny Remilia Fumo'
   description: |
@@ -261,7 +261,7 @@
 
     {:width 70}This one comes from a whole different universe! Unlike
 
-    {:width 70}the real {:color #d578fa80}Flandre{:reset}, this sword is just a prop!
+    {:width 70}the real {:color #d578fa80}Flandre{:reset}{:width 75}, this sword is just a prop!
 - id: "Fumo 35"
   name: '{:color #a307a680}Retro Reimu Fumo'
   description: |
