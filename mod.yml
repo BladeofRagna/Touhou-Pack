@@ -800,3 +800,118 @@ assets:
   method: copy
   source:
   - name: remastered/transition.png
+- name: remastered/msg/us/fontimage.bar/US_fontimage_bar0.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/US_fontimage_bar0.png
+- name: remastered\obj\P_EX100_ULTF.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.mdlx\-0.dds
+- name: remastered\obj\P_EX100_ULTF.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.mdlx\-1.dds
+- name: remastered/itempic/item-269.imd/-0.dds #Final Form
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Final Form.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-0.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-0.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-0.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-0.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-1.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-1.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-1.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-1.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-2.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-2.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-2.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-2.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-0.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-3.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-3.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-3.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-4.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-4.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-4.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-4.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-5.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-5.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-5.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\5.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-6.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-6.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-6.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-6.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-7.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-7.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-7.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-7.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\7.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-8.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-8.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-8.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-8.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-9.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM_ULTF.a.us\-9.dds
+  - name: remastered\obj\P_EX100_XM_ULTF.a.us\-9.dds
+  - name: remastered\obj\P_EX100_TR_ULTF.a.us\-9.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-9.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
