@@ -278,3 +278,75 @@
     This appears to resemble {:color #ffff0080}Marisa{:reset} from long ago.
 
     It's quite a rare find!
+- id: "Fumo 37"
+  name: '{:color #eb343d80}Rin Fumo'
+  description: |
+    An adorable plush of {:color #eb343d80}Rin Kaenbyou{:reset}!
+
+    Her wheelbarrow is missing, but she'll still
+
+    take your corpse if you fall in battle!
+- id: "Fumo 38"
+  name: '{:color #1ee30080}Parsee Fumo'
+  description: |
+    A rather jealous fumo of {:color #1ee30080}Parsee{:reset}!
+
+    It may be best to watch out, as even this
+
+    can get envious of your battle skills!
+- id: "Fumo 39"
+  name: '{:color #05c1ff80}Kogasa Fumo'
+  description: |
+    A scary plush doll of {:color #05c1ff80}Kogasa Tatara{:reset}!
+
+    You should take this to Halloween Town, since
+
+    it loves to scare people!
+- id: "Fumo 40"
+  name: '{:color #42444780}Nue Fumo'
+  description: |
+    An unidentifiable fumo of {:color #ff002b80}N{:color #0048ff80}u{:color #00ed0880}e{:reset} {:color #ff002b80}H{:color #0048ff80}o{:color #00ed0880}u{:color #ff002b80}j{:color #0048ff80}u{:color #00ed0880}u{:reset}!
+
+    Despite being unidentifiable fumo, you can still
+
+    tell that she's a youkai of sorts!
+- id: "Fumo 41"
+  name: '{:color #ffffff80}Sagume Fumo'
+  description: |
+    A plush doll of Sagume Kishin!
+
+    No matter how hard it tries, this fumo is
+
+    incapable of reversing any situation!
+- id: "Fumo 42"
+  name: '{:color #fff70080}Junko Fumo'
+  description: |
+    The purest fumo of {:color #fff70080}Junko{:reset}!
+
+    Even though it's just a plush doll, even this
+
+    still waits for vengence towards Chang'e!
+- id: "Fumo 43"
+  name: '{:color #f2750080}Joon Fumo'
+  description: |
+    The disastrous fumo of {:color #f2750080}Joon Yorigami{:reset}!
+
+    For some reason, you feel a great need to spend
+
+    all your munny on Ether's!
+- id: "Fumo 44"
+  name: '{:color #0b00e680}Shion Fumo'
+  description: |
+    The disastrous fumo of {:color #0b00e680}Shion Yorigami{:reset}!
+
+    You should find a way to get rid of this quick!
+
+    A great deal of misfortune may come! ...Or not...
+- id: "Fumo 45"
+  name: '{:color #4080ff80}Tenshi Fumo'
+  description: |
+    The plush doll of {:color #4080ff80}Tenshi Hinanawi{:reset}!
+
+    Though she naturally brings good luck, this is
+
+    just a plush, so it won't do anything.
