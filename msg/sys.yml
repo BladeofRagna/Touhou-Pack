@@ -364,6 +364,10 @@
   en: '{:color #67756a80}Phantom'
 - id: 0x0642
   en: '{:color #67756a80}Phantom Form'
+- id: 0x3BCA
+  en: '{:color #67756a80}Auto Phantom'
+- id: 0x432A
+  en: '{:color #67756a80}Phantom'
 - id: 0x0643
   en: >-
     With Goofy's help, use the Drive
@@ -371,3 +375,20 @@
     Command to change into {:color #67756a80}Phantom Form{:reset}!
 
     {:color #67756a80}{:width 65}"You need me? Ok! With our powers together we'll cut through anything!"
+- id: 0x0648
+  en: '{:color #db79c880}{:width 80}Resurrection Form'
+- id: 0x01E8
+  en: '{:color #db79c880}{:width 80}Resurrection Form'
+- id: 0x432D
+  en: '{:color #db79c880}{:width 80}Resurrection'
+- id: 0x0461
+  en: '{:color #db79c880}{:width 80}Resurrection'
+- id: 0x3BD0
+  en: '{:color #db79c880}{:width 80}Auto Resurrection'
+- id: 0x0649
+  en: >-
+    Using the Keyblade's true power, use the 
+    
+    Drive Command to change into {:color #db79c880}Resurrection Form{:reset}!
+
+    {:color #db79c880}{:width 70}"You desire my aid? Very well, let us begin this dance of death together!"
