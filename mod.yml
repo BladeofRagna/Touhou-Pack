@@ -873,7 +873,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered\obj\P_EX100_ULTF.a.us\5.dds
+  - name: remastered\obj\P_EX100_ULTF.a.us\-5.dds
 - name: remastered\obj\P_EX100_ULTF.a.us\-6.dds
   multi:
   - name: remastered\obj\P_EX100_NM_ULTF.a.us\-6.dds
