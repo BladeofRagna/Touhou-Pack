@@ -847,7 +847,7 @@ assets:
   method: copy
   source:
   - name: remastered\obj\P_EX100_ULTF.a.us\-2.dds
-- name: remastered\obj\P_EX100_ULTF.a.us\-0.dds
+- name: remastered\obj\P_EX100_ULTF.a.us\-3.dds
   multi:
   - name: remastered\obj\P_EX100_NM_ULTF.a.us\-3.dds
   - name: remastered\obj\P_EX100_XM_ULTF.a.us\-3.dds
