@@ -915,3 +915,51 @@ assets:
   method: copy
   source:
   - name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
+  - name: remastered\map\eh20.map\-1.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-1.dds
+- name: remastered\map\eh20.map\-2.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-2.dds
+- name: remastered\map\eh20.map\-3.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-3.dds
+- name: remastered\map\eh20.map\-4.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-4.dds
+- name: remastered\map\eh20.map\-5.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-5.dds
+- name: remastered\map\eh20.map\-6.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-6.dds
+- name: remastered\map\eh20.map\-7.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-7.dds
+- name: remastered\map\eh20.map\-8.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-8.dds
+- name: remastered\map\eh20.map\-9.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-9.dds
+- name: remastered\map\eh20.map\-10.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-10.dds
+- name: remastered\map\eh20.map\-11.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-11.dds
+- name: remastered\map\eh20.map\-12.dds
+  method: copy
+  source:
+  - name: remastered\map\eh20.map\-12.dds
