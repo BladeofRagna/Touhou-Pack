@@ -915,7 +915,7 @@ assets:
   method: copy
   source:
   - name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
-  - name: remastered\map\eh20.map\-1.dds
+- name: remastered\map\eh20.map\-1.dds
   method: copy
   source:
   - name: remastered\map\eh20.map\-1.dds
