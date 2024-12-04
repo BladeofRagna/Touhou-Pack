@@ -963,3 +963,22 @@ assets:
   method: copy
   source:
   - name: remastered\map\eh20.map\-12.dds
+- name: remastered/menu/us/title.2ld/8.png
+  method: copy
+  source:
+  - name: remastered/US_title_2ld8.png
+- name: remastered/menu/fr/title.2ld/1.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/1.png
+  - name: remastered/menu/it/title.2ld/1.png
+  - name: remastered/menu/sp/title.2ld/1.png
+  - name: remastered/menu/uk/title.2ld/1.png
+  - name: remastered/menu/us/title.2ld/1.png
+  method: copy
+  source:
+  - name: title_2ld1.png
+- name: remastered\obj\F_EX260.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\F_EX260.a.us\-0.dds
