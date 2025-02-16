@@ -1,6 +1,6 @@
 #THIS IS THE CONFIG FILE FOR THE TOUHOU CUSTOMIZER PROGRAM!
 #DO NOT ALTER ANYTHING WITHIN THIS FILE OR ELSE RISK BREAKING IT!
-first_run: false
+first_run: true
 textures:
   Disable Explosion/Magnet Burst Textures: 0
   Disable Phantom Form/Valor Form Textures: 0
