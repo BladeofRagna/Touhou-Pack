@@ -1,7 +1,101 @@
 title: Touhou Pack
-description: Replaces many various things in KH2 with things from Touhou Project! (PLEASE READ THE README FILE!)
+description: Replaces many various things in KH2 with things from Touhou Project! (PLEASE READ THE README FILE ON GITHUB REGARDING RANDOMIZED FUMOS!)
 assets:
 #PC ONLY
+#Texts
+- name: msg/us/sys.bar
+  multi:
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/forms abilities.yml
+      language: en
+- name: msg/us/sys.bar
+  multi:
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/magics.yml
+      language: en
+- name: msg/us/sys.bar
+  multi:
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/etc.yml
+      language: en
+- name: msg/us/sys.bar
+  multi:
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/fumo's.yml
+      language: en
+- name: msg/us/sys.bar
+  multi:
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/puzzles.yml
+      language: en
+- name: msg/us/jm.bar
+  multi:
+  - name: msg/fr/jm.bar
+  - name: msg/gr/jm.bar
+  - name: msg/it/jm.bar
+  - name: msg/sp/jm.bar
+  method: binarc
+  source:
+  - name: jm
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/puzzles2.yml
+      language: en
+- name: 03system.bin
+  method: binarc
+  source:
+  - name: item #Custom Fumos
+    type: list
+    method: listpatch
+    source:
+    - name: 03system.bin/ItemList.yml
+      type: item
 - name: remastered/obj/PRIZE.mdlx/-0.dds
   platform: pc
   method: copy
@@ -433,72 +527,6 @@ assets:
   method: copy
   source:
   - name: field2d\al0field.2dd
-#Texts
-- name: msg/us/sys.bar
-  multi:
-  - name: msg/fr/sys.bar
-  - name: msg/gr/sys.bar
-  - name: msg/it/sys.bar
-  - name: msg/sp/sys.bar
-  method: binarc
-  source:
-  - name: sys
-    type: list
-    method: kh2msg
-    source:
-    - name: msg/sys.yml
-      language: en
-- name: msg/us/sys.bar
-  multi:
-  - name: msg/fr/sys.bar
-  - name: msg/gr/sys.bar
-  - name: msg/it/sys.bar
-  - name: msg/sp/sys.bar
-  method: binarc
-  source:
-  - name: sys
-    type: list
-    method: kh2msg
-    source:
-    - name: msg/fumo's.yml
-      language: en
-- name: msg/us/sys.bar
-  multi:
-  - name: msg/fr/sys.bar
-  - name: msg/gr/sys.bar
-  - name: msg/it/sys.bar
-  - name: msg/sp/sys.bar
-  method: binarc
-  source:
-  - name: sys
-    type: list
-    method: kh2msg
-    source:
-    - name: msg/Puzzles.yml
-      language: en
-- name: msg/us/jm.bar
-  multi:
-  - name: msg/fr/jm.bar
-  - name: msg/gr/jm.bar
-  - name: msg/it/jm.bar
-  - name: msg/sp/jm.bar
-  method: binarc
-  source:
-  - name: jm
-    type: list
-    method: kh2msg
-    source:
-    - name: msg/jm.yml
-      language: en
-- name: 03system.bin
-  method: binarc
-  source:
-  - name: item #Custom Fumos
-    type: list
-    method: listpatch
-    source:
-    - name: 03system.bin/ItemList.yml
-      type: item
 - name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png
   multi:
   - name: remastered/msg/us/fontimage.bar/US_fontimage_bar2.png
@@ -529,8 +557,8 @@ assets:
   - name: remastered/menu/us/pause.2ld/US_pause_2ld1.dds
   method: copy
   source:
-  - name: Dance Reimu.dds
-  #Fumos
+  - name: Loading Icons/Suwako.dds
+#Fumos
 
 #Fumo 1
 - name: remastered/itempic/item-226.imd/-0.dds
@@ -586,15 +614,6 @@ assets:
   method: copy
   source:
   - name: remastered/Fumo's/Koishi.dds
-- name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
-  platform: pc
-  method: copy
-  source:
-  - name: US_zz0command_2dd0.png
-- name: scripts/Touhou Menu.lua
-  method: copy
-  source:
-  - name: Touhou Menu.lua
 - name: remastered\menu\us\save.2ld\US_save_2ld1.png
   platform: pc
   method: copy
@@ -674,7 +693,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered\obj\P_EX100.a.us\-3.dds
+  - name: remastered\obj\P_EX100.a.us\-5.dds
 - name: remastered\obj\P_EX100_BTLF.mdlx/-0.dds
   platform: pc
   method: copy
@@ -982,3 +1001,20 @@ assets:
   method: copy
   source:
   - name: remastered\obj\F_EX260.a.us\-0.dds
+- name: remastered/field2d/us/zz0command.2dd/US_zz0command_2dd0.png
+  platform: pc
+  method: copy
+  source:
+  - name: US_zz0command_2dd0.png
+#- name: obj\W_EX010.mdlx
+#  method: copy
+#  platform: pc
+#  package: kh2_sixth
+#  source:
+#  - name: obj\Gohei.mdlx
+#- name: remastered\obj\W_EX010.mdlx\-0.dds
+#  method: copy
+#  platform: pc
+#  package: kh2_sixth
+#  source:
+#  - name: obj\Gohei_Texture.dds
