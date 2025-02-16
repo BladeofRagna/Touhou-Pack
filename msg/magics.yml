@@ -1,0 +1,110 @@
+- id: 0x0634
+  en: '{:color #cc5e1f80}Blazing Sign'
+- id: 0x0635
+  en: >-
+    Flames appear and revolve around you.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 12{:reset}
+- id: 0x0636
+  en: '{:color #63acff80}Freeze Sign'
+- id: 0x0637
+  en: >-
+    Unleashes ice crystals at the target.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 15{:reset}
+- id: 0x0638
+  en: '{:color #c4c40880}Spark Sign'
+- id: 0x0639
+  en: >-
+    Drops lightning bolts on the target.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 18{:reset}
+- id: 0x063A
+  en: '{:color #3f9c3580}Life Sign'
+- id: 0x063B
+  en: >-
+    Restores HP.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} All{:reset}
+- id: 0x063C
+  en: '{:color #96178880}Gather Sign'
+- id: 0x063D
+  en: >-
+    Emits a power that draws in the enemy.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 30{:reset}
+- id: 0x063E
+  en: '{:color #c2c2c280}Shield Sign'
+- id: 0x063F
+  en: >-
+    Fends and shoots back enemy attacks.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 10{:reset}
+- id: 0x0635
+  en: >-
+    Flames appear and revolve around you.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 12{:reset}
+- id: 0x0508
+  en: '{:color #cc5e1f80}Agni'
+- id: 0x0509
+  en: '{:color #cc5e1f80}{:width 80}Flame Wheel'
+- id: 0x050A
+  en: '{:color #cc5e1f80}{:width 85}Giga Flare'
+- id: 0x0637
+  en: >-
+    Unleashes ice crystals at the target.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 15{:reset}
+- id: 0x050E
+  en: '{:color #63acff80}Icicle'
+- id: 0x050F
+  en: '{:color #63acff80}Hailstorm'
+- id: 0x0510
+  en: '{:color #63acff80}{:width 66}Perfect Freeze'
+- id: 0x0639
+  en: >-
+    Drops lightning bolts on the target.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 18{:reset}
+- id: 0x050B
+  en: '{:color #c4c40880}Thunderbolt'
+- id: 0x050C
+  en: '{:color #c4c40880}Discharge'
+- id: 0x050D
+  en: '{:color #c4c40880}{:width 66}Stardust Surge'
+- id: 0x063B
+  en: >-
+    Restores HP.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} All{:reset}
+- id: 0x0511
+  en: '{:color #3f9c3580}Life Piece'
+- id: 0x0512
+  en: '{:color #3f9c3580}Extend'
+- id: 0x0513
+  en: '{:color #3f9c3580}Phoenix'
+- id: 0x063D
+  en: >-
+    Emits a power that draws in the enemy.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 30{:reset}
+- id: 0x0514
+  en: '{:color #96178880}Whirl'
+- id: 0x0515
+  en: '{:color #96178880}Telekinesis'
+- id: 0x0516
+  en: '{:color #96178880}{:width 80}Vortex Pull'
+- id: 0x063F
+  en: >-
+    Fends and shoots back enemy attacks.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 10{:reset}
+- id: 0x0517
+  en: '{:color #c2c2c280}Graze'
+- id: 0x0518
+  en: '{:color #c2c2c280}Barrier'
+- id: 0x0519
+  en: '{:color #c2c2c280}{:width 72}Duplex Shield'
+- id: 0x01E1
+  en: Danmaku

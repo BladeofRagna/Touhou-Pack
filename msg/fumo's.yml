@@ -1,6 +1,46 @@
 - id: 0x3B0B
-  en: '{:color #FF000080}Reimu Fumo'
+  en: '{:color #f2750080}Joon Fumo'
 - id: 0x3B0C
+  en: >-
+    The disastrous fumo of {:color #f2750080}Joon Yorigami{:reset}!
+    
+    For some reason, you feel a great need to spend
+    
+    all your munny on Ether's!
+    
+- id: 0x3B0D
+  en: '{:color #9f32cf80}Patchouli Fumo'
+- id: 0x3B0E
+  en: >-
+    A plush doll of {:color #9f32cf80}Patchouli Knowledge{:reset}!
+    
+    {:width 90}Despite its name, this fumo lacks magical abilities.
+    
+    {:width 90}Try not to shake it too much too; it tends to cough.
+    
+- id: 0x4C55
+  en: '{:color #c7569880}Tewi Fumo'
+- id: 0x4C56
+  en: >-
+    A rather lucky fumo of {:color #c7569880}Tewi Inaba{:reset}!
+    
+    {:width 80}What's so lucky about this thing you ask? Nothing!
+    
+    {:width 80}You simply found it before it found you!
+    
+- id: 0x3B15
+  en: '{:color #0b00e680}Shion Fumo'
+- id: 0x3B16
+  en: >-
+    The disastrous fumo of {:color #0b00e680}Shion Yorigami{:reset}!
+    
+    You should find a way to get rid of this quick!
+    
+    A great deal of misfortune may come! ...Or not...
+    
+- id: 0x3B1B
+  en: '{:color #FF000080}Reimu Fumo'
+- id: 0x3B1C
   en: >-
     A fumo of the {:color #FF000080}Hakurei Shrine Maiden{:reset}.
     
@@ -8,77 +48,41 @@
     
     all these incidents going on.
     
-- id: 0x3B0D
-  en: '{:color #1957bd80}Alice Fumo'
-- id: 0x3B0E
+- id: 0x3B1D
+  en: '{:color #1b00a380}Eirin Fumo'
+- id: 0x3B1E
   en: >-
-    {:width 95}A plush doll of the {:color #1957bd80}Seven-Colored Puppeteer{:reset}.
+    It's the plush doll of {:color #1b00a380}Eirin Yagokoro{:reset}!
     
-    This doll appears to be full of magic within it.
+    {:width 90}Eirin is quite a master of medicines, however, this fumo
     
-    Alice is a doll maker isn't she? Did she make this?
+    {:width 90}lacks any Potion's or such to help you...
     
-- id: 0x4C55
-  en: '{:color #80051580}Remilia Fumo'
-- id: 0x4C56
-  en: >-
-    {:width 90}A plush doll of the {:color #80051580}Scarlet Mistress Remilia{:reset}!
-    
-    Unlike the real Remilia, this isn't hurt by the sun.
-    
-    Beware of fangs however!
-    
-- id: 0x3B15
+- id: 0x3B1F
   en: '{:color #12b80980}Sanae Fumo'
-- id: 0x3B16
+- id: 0x3B20
   en: >-
     A plush doll of the living god {:color #12b80980}Sanae Kochiya{:reset}!
     
     Just having this fills you with spirit and joy!
     
-- id: 0x3B1B
-  en: '{:color #00FFFF80}Cirno Fumo'
-- id: 0x3B1C
-  en: >-
-    {:width 95}{:color #00FFFF80}The strongest fumo in all of Gensokyo!{:reset}
-    
-    Keep this away from flower ladies!
-    
-- id: 0x3B1D
-  en: '{:color #f59d9d80}Utsuho Fumo'
-- id: 0x3B1E
-  en: >-
-    A plush doll of a {:color #f59d9d80}nuclear bird-brain{:reset}.
-    
-    For some reason this thing feels rather warm to
-    
-    the touch. It's rather anxiety inducing...
-    
-- id: 0x3B1F
-  en: '{:color #d4d40680}Marisa Fumo'
-- id: 0x3B20
-  en: >-
-    A seemingly normal fumo of {:color #d4d40680}Marisa{:reset}.
-    
-    Mini Hakkero is not included.
-    
 - id: 0x3B21
-  en: '{:color #DF40DF80}Yuyuko Fumo'
+  en: '{:color #a307a680}Retro Reimu Fumo'
 - id: 0x3B22
   en: >-
-    The fumo of {:color #DF40DF80}Yuyuko Saigyouji{:reset}.
+    An older looking fumo of {:color #a307a680}Reimu Hakurei{:reset}!
     
-    Despite Yuyuko being a ghost, this fumo
+    This appears to resemble {:color #a307a680}Reimu{:reset} from long ago.
     
-    is not. Just keep food away from it!
+    It's quite a rare find!
     
 - id: 0x3B11
-  en: '{:color #a3ff9e80}Koishi Fumo'
+  en: '{:color #9d25a880}Satori Fumo'
 - id: 0x3B12
   en: >-
-    A plush doll of your {:color #a3ff9e80}invisible friend{:reset}!
+    A plush doll of {:color #9d25a880}Satori Komeiji{:reset}.
     
-    Though you might not remember it, this fumo 
+    {:width 90}Unlike the real Satori; this one can't read your mind.
     
-    has always been with you.
+    ... Or can it?
     
