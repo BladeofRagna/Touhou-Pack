@@ -466,8 +466,8 @@ class MainWindow(QMainWindow):
             with open(mod_file_path, 'r', encoding='utf-8') as file:
                 lines = file.readlines()
 
-            # Modify line 532 to change the loading icon
-            line_index = 531  # Line 532 in a 0-based index
+            # Modify line 560 to change the loading icon
+            line_index = 559  # Line 532 in a 0-based index
             if line_index < len(lines):
                 lines[line_index] = f'  - name: Loading Icons/{selected_icon}.dds\n'
 
@@ -634,7 +634,7 @@ class MainWindow(QMainWindow):
             fumo_reference_file = resource_path("fumo_reference.yml")
             fumos_file_path = resource_path("msg/fumo's.yml")
             mod_file_path = resource_path("mod.yml")
-            fumo_line_numbers = [568, 574, 580, 586, 592, 598, 604, 610, 616]
+            fumo_line_numbers = [567, 573, 579, 585, 591, 597, 603, 609, 615]
 
             self.shuffle_fumos(fumo_reference_file, fumos_file_path, self.preferences, mod_file_path, fumo_line_numbers)
 
