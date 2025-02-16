@@ -1,0 +1,13 @@
+Touhou Pack Changelog:
+3.0.0
+- Added the new "Touhou Customizer" program; replacing the now defunct fumo randomizer program (Known as Randomizefumos.exe). More info below!
+- Fixed the form textures not loading correctly! ...Again... hopefully!
+- Shifted around a lot of files both for organization sake (god knows this mod needs it) and the new program
+- Shifted around lots of data for the mod.yml
+
+Touhou Customizer Changelog:
+1.0.0
+- Initial Version
+(Note: Currently disabling all textures and only using text is very inconsistent; some times various text files will not load so please be cautious!)
+
+Not gonna bother writing what I did in prior versions, too many changes that went undocumented.
