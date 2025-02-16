@@ -557,7 +557,7 @@ assets:
   - name: remastered/menu/us/pause.2ld/US_pause_2ld1.dds
   method: copy
   source:
-  - name: Loading Icons/Suwako.dds
+  - name: Loading Icons/Remiu.dds
 #Fumos
 
 #Fumo 1
