@@ -1,0 +1,29 @@
+#THIS IS THE CONFIG FILE FOR THE TOUHOU CUSTOMIZER PROGRAM!
+#DO NOT ALTER ANYTHING WITHIN THIS FILE OR ELSE RISK BREAKING IT!
+first_run: false
+textures:
+  Disable Explosion/Magnet Burst Textures: 0
+  Disable Phantom Form/Valor Form Textures: 0
+  Disable Fairy Form/Wisdom Form Textures: 0
+  Disable Scarlet Form/Limit Form Textures: 0
+  Disable Faith Form/Master Form Textures: 0
+  Disable Resurrection Form/Final Form Textures: 0
+  Disable Sora-Rin/Lion Sora Textures: 0
+  Disable HP, MP, Faith/Drive HUD Textures: 0
+  Disable Puzzle Textures: 0
+  Disable Prize Drops Textures: 0
+  Disable Final Xemnas Arena Textures: 0
+  Disable Drive/High-Drive Recovery Item Textures: 0
+  Disable Room Fadeout Texture: 0
+  Disable Save Image Textures: 0
+  Disable Spell Text (Includes Elements): 0
+  Disable Puzzle Piece Text: 0
+  Disable Form and Ability Text: 0
+  Disable Fumo Text: 0
+  Disable Etc. Text Changes & Font: 0
+misc:
+  Enable Alternate Forms: 0
+  Enable Reimu Mod: 0
+  Enable Gohei: 0
+  Enable Touhou Soundpack: 0
+  Loading Icon: Reimu
